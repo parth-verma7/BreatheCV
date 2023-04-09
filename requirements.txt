@@ -18,3 +18,4 @@ python-dateutil==2.8.2
 scipy==1.10.1
 six==1.16.0
 Werkzeug==2.2.3
+gunicorn
